@@ -1,1 +1,1 @@
-worker: python3 esketit_bot.py
+worker: python esketit_bot.py
